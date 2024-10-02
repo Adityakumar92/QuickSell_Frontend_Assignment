@@ -1,5 +1,5 @@
 import NoPriorityIcon from '../../public/icons_FEtask/No-priority.svg';
-import LowPriorityIcon from '../../public/icons_FEtask/Img - Low priority.svg';
+import LowPriorityIcon from '../../public/icons_FEtask/Img - Low Priority.svg';
 import MediumPriorityIcon from '../../public/icons_FEtask/Img - Medium priority.svg';
 import HighPriorityIcon from '../../public/icons_FEtask/Img - High priority.svg';
 import UrgentPriorityIcon from '../../public/icons_FEtask/SVG - Urgent Priority colour.svg';
